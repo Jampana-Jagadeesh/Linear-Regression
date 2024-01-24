@@ -1,6 +1,4 @@
-Certainly! Below is a basic example of a README.md file for your provided code. Feel free to customize it based on your specific needs.
 
-```markdown
 # Linear Regression with scikit-learn
 
 This repository contains a Python script for implementing linear regression using scikit-learn. Linear regression is a simple yet powerful algorithm for predicting a continuous target variable based on one or more independent features.
@@ -52,5 +50,3 @@ The script calculates Mean Squared Error (MSE) and R-squared (R^2) scores for bo
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
-
-In this example README.md file, I assumed you might want to include information about prerequisites, usage instructions, the algorithm used, and the results obtained. Adjust the content as needed to better suit your project and audience.
